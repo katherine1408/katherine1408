@@ -9,25 +9,25 @@ Soy una profesional con más de 12 años de experiencia en el sector financiero,
 ## 🚀 Portafolio de Proyectos Destacados
 
 ### 🧠 Proyecto Final – Modelo de ML Empresarial  
-[🔗 Ver repositorio](https://github.com/katherine1408/final-project-ml-tripleten)  
+[🔗 Ver repositorio](https://github.com/katherine1408/PROYECTO_FINAL.git)  
 Simulación completa de flujo en una empresa: EDA, desarrollo de modelo y entrega de informe técnico.
 
 ---
 
 ### 📈 Predicción de Demanda – Sweet Lift Taxi  
-[🔗 Ver repositorio](https://github.com/katherine1408/sprint14-taxi-demand-forecasting)  
+[🔗 Ver repositorio](https://github.com/katherine1408/PROYECTO_14.git)  
 Modelo de series temporales para predecir el número de pedidos por hora. RMSE ≤ 48 alcanzado.
 
 ---
 
 ### 🎬 Clasificador de Sentimientos – Film Junky Union  
-[🔗 Ver repositorio](https://github.com/katherine1408/sprint15-sentiment-analysis-film-junky)  
+[🔗 Ver repositorio](https://github.com/katherine1408/PROYECTO_15.git)  
 NLP con `TF-IDF`, `LogisticRegression`, y modelos de boosting. F1 ≥ 0.85.
 
 ---
 
 ### 👁️ Predicción de Edad con Visión Artificial (CNN + ResNet50)  
-[🔗 Ver repositorio](https://github.com/katherine1408/sprint16-age-prediction-cnn)  
+[🔗 Ver repositorio](https://github.com/katherine1408/PROYECTO_16.git)  
 Uso de `ImageDataGenerator`, `transfer learning` y arquitectura ResNet50. MAE < 8.
 
 ---
