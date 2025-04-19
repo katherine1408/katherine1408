@@ -41,15 +41,4 @@ Uso de `ImageDataGenerator`, `transfer learning` y arquitectura ResNet50. MAE < 
 - NLP (`TfidfVectorizer`, BERT básico)
 - Git, GitHub y Jupyter Notebooks
 
----
 
-## 📬 ¡Conectemos!
-
-- ✉️ [laudeyil@gmail.com](mailto:laudeyil@gmail.com)
-- 📱 +51 962238638
-- 💼 [LinkedIn](https://www.linkedin.com/in/katherine-esther-quispe-humani-3a198a321/)
-- 💻 [GitHub](https://github.com/katherine1408)
-
----
-
-### ✨ Gracias por visitar mi perfil. ¡Estoy lista para nuevos retos en ciencia de datos!
